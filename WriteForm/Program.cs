@@ -9,10 +9,17 @@ namespace WriteForm
     class Program
     {
         static void Main(string[] args)
-        {   
-            string name = "hamid";
+        {
+            string name, family;
+            Console.WriteLine("please write your name:");
+            name = Console.ReadLine();
+            Console.WriteLine("please write your family:");
+            family = Console.ReadLine();
+            //name = "hamid";
+           // family = "Roshan";
             Console.WriteLine("                          ┌──────────────────────────────────────────────────────────┐");
-            Console.WriteLine("                          |   Name |{0}    |                   Family| family |      |",name);
+            Console.WriteLine("                          |   Name |"+name+"    |                   Family| "+family+" |    |");
         }
     }
 }
+ 
