@@ -1,0 +1,6 @@
+C:\Users\peyman\Desktop\project-test\csharp\WriteForm\WriteForm\bin\Debug\WriteForm.exe.config
+C:\Users\peyman\Desktop\project-test\csharp\WriteForm\WriteForm\bin\Debug\WriteForm.exe
+C:\Users\peyman\Desktop\project-test\csharp\WriteForm\WriteForm\bin\Debug\WriteForm.pdb
+C:\Users\peyman\Desktop\project-test\csharp\WriteForm\WriteForm\obj\Debug\WriteForm.csprojResolveAssemblyReference.cache
+C:\Users\peyman\Desktop\project-test\csharp\WriteForm\WriteForm\obj\Debug\WriteForm.exe
+C:\Users\peyman\Desktop\project-test\csharp\WriteForm\WriteForm\obj\Debug\WriteForm.pdb
