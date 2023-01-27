@@ -10,21 +10,7 @@ namespace WriteForm
     {
         static void Main(string[] args)
         {
-            //مشخص کردن نوع متغییر
-           string name, family;
-         //   int birthday,id_number;
-            //گرفتن نام از کاربر
-           // Console.WriteLine("please write your name:");
-            //name = Console.ReadLine();
-            //Console.WriteLine("please write your family:");
-            //family = Console.ReadLine();
-            //برای اعداد تغییر متغییر به رشته
-            //Console.WriteLine("please write your birthday:(year only)");
-            //birthday = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("please write your id-Number:(5 digit)");
-            //id_number = Convert.ToInt32(Console.ReadLine());
-            name = "hamid";
-            family = "Roshan";
+         
 
 
             Console.WriteLine("                          ┌──────────────────────────────────────────────────────────┐");
@@ -50,19 +36,26 @@ namespace WriteForm
 
 
 
+            //مشخص کردن نوع متغییر
+            string name, family;
+            //   int birthday,id_number;
+            //گرفتن نام از کاربر
+            // Console.WriteLine("please write your name:");
+            //name = Console.ReadLine();
+            //Console.WriteLine("please write your family:");
+            //family = Console.ReadLine();
+            //برای اعداد تغییر متغییر به رشته
+            //Console.WriteLine("please write your birthday:(year only)");
+            //birthday = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("please write your id-Number:(5 digit)");
+            //id_number = Convert.ToInt32(Console.ReadLine());
+            name = "hamid";
+            family = "Roshan";
 
 
 
 
-
-
-
-
-
-
-
-
-            // Console.WriteLine("                          | birthday |{0}|                      id-Number |{1}|   |",birthday,id_number);
+             // Console.WriteLine("                          | birthday |{0}|                      id-Number |{1}|   |",birthday,id_number);
         }
     }
 }
